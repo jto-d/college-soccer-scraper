@@ -1,0 +1,401 @@
+College Name,City,State,SAT Range,Acceptance Rates
+University of Chicago,Chicago,Illinois,1500-1570,6
+California Institute of Technology,Pasadena,California,1530-1580,7
+Massachusetts Institute of Technology,Cambridge,Massachusetts,1450-1600,7
+Pomona College,Claremont,California,1390-1540,9
+Bowdoin College,Brunswick,Maine,1360-1510,9
+Swarthmore College,Swarthmore,Pennsylvania,1390-1540,9
+Colby College,Waterville,Maine,1380-1520,10
+Johns Hopkins University,Baltimore,Maryland,1470-1560,11
+Amherst College,Amherst,Massachusetts,1430-1560,12
+Claremont McKenna College,Claremont,California,1330-1500,13
+Bates College,Lewiston,Maine,1385-1460,14
+Colorado College,Colorado Springs,Colorado,None Found,14
+Harvey Mudd College,Claremont,California,1490-1570,14
+Tufts University,Medford,Massachusetts,1380-1530,15
+Williams College,Williamstown,Massachusetts,1410-1550,15
+Washington University in St. Louis,Saint Louis,Missouri,1480-1560,16
+Carnegie Mellon University,Pittsburgh,Pennsylvania,1460-1560,17
+Pitzer College,Claremont,California,1300-1450,17
+Hamilton College,Clinton,New York,1380-1510,18
+Haverford College,Haverford,Pennsylvania,1360-1520,18
+Emory University,Atlanta,Georgia,1380-1530,19
+Grinnell College,Grinnell,Iowa,1370-1540,19
+United States Coast Guard Academy,New London,Connecticut,1220-1400,20
+Carleton College,Northfield,Minnesota,1330-1520,21
+New York University,New York,New York,1370-1540,21
+Wesleyan University,Middletown,Connecticut,1300-1480,21
+Middlebury College,Middlebury,Vermont,1340-1520,22
+United States Merchant Marine Academy,Kings Point,New York,1220-1360,24
+Vassar College,Poughkeepsie,New York,1360-1520,25
+Washington & Jefferson College,Washington,Pennsylvania,1350-1500,25
+Babson College,Wellesley,Massachusetts,1270-1450,27
+Denison University,Granville,Ohio,1220-1430,28
+Brandeis University,Waltham,Massachusetts,1320-1510,30
+Case Western Reserve University,Cleveland,Ohio,1340-1520,30
+Skidmore College,Saratoga Springs,New York,1220-1400,32
+Berea College,Berea,Kentucky,1080-1280,33
+University of Rochester,Rochester,New York,1330-1510,35
+Scripps College,Claremont,California,1320-1480,35
+Oberlin College,Oberlin,Ohio,1270-1360,36
+Kenyon College,Gambier,Ohio,1280-1460,37
+Franklin & Marshall College,Lancaster,Pennsylvania,1200-1420,37
+Connecticut College,New London,Connecticut,1310-1450,38
+Macalester College,Saint Paul,Minnesota,1280-1450,39
+Clarks Summit University,Clarks Summit,Pennsylvania,>873-1126,41
+Emerson College,Boston,Massachusetts,1190-1380,41
+Occidental College,Los Angeles,California,1270-1460,41
+North Park University,Chicago,Illinois,>940-1150,44
+Brevard College,Brevard,North Carolina,>850-1050,45
+SUNY New Paltz,New Paltz,New York,1070-1260,45
+Manhattan Christian College,Manhattan,Kansas,>760-1320,46
+Crown College,Saint Bonifacius,Minnesota,>960-1150,47
+Hampden-Sydney College,Hampden Sydney,Virginia,1040-1220,47
+McMurry University,Abilene,Texas,>940-1130,47
+St. Lawrence University,Canton,New York,1180-1360,47
+Gettysburg College,Gettysburg,Pennsylvania,1200-1370,48
+St. Olaf College,Northfield,Minnesota,1150-1390,48
+Austin College,Sherman,Texas,1110-1310,49
+Belhaven University,Jackson,Mississippi,>980-1130,49
+Howard Payne University,Brownwood,Texas,>940-1110,49
+Southwestern University,Georgetown,Texas,1110-1300,49
+Defiance College,Defiance,Ohio,>890-1050,50
+Rhodes College,Memphis,Tennessee,1220-1400,51
+Rockford University,Rockford,Illinois,>900-1100,51
+The College of New Jersey,Ewing,New Jersey,1140-1320,51
+Dickinson College,Carlisle,Pennsylvania,1190-1365,52
+Maine Maritime Academy,Castine,Maine,1000-1160,52
+SUNY Cortland,Cortland,New York,1100-1220,52
+Clark University,Worcester,Massachusetts,1150-1350,53
+North Central College,Naperville,Illinois,1050-1230,53
+Stevens Institute of Technology,Hoboken,New Jersey,1320-1480,53
+University of Dallas,Irving,Texas,1130-1350,54
+Whitman College,Walla Walla,Washington,1230-1430,54
+Sarah Lawrence College,Bronxville,New York,1220-1410,55
+Adrian College,Adrian,Michigan,>940-1120,56
+Buena Vista University,Storm Lake,Iowa,>930-1110,56
+SUNY College at Oneonta,Oneonta,New York,>980-1150,56
+University of the Ozarks,Clarksville,Arkansas,>950-1230,56
+Bard College,Annandale-On-Hudson,New York,>ï¿½ï¿½<!-,57
+Blackburn College,Carlinville,Illinois,>890-1090,57
+Illinois Wesleyan University,Bloomington,Illinois,1100-1300,57
+Webster University,Saint Louis,Missouri,1040-1260,57
+Rensselaer Polytechnic Institute ï¿½ï¿½ï,Troy,New York,1300-1500,57
+Beloit College,Beloit,Wisconsin,1080-1380,58
+Chapman University,Orange,California,1170-1350,58
+Lake Forest College,Lake Forest,Illinois,1020-1240,58
+Loras College,Dubuque,Iowa,>960-1140,58
+SUNY College at Brockport,Brockport,New York,1000-1160,58
+Earlham College,Richmond,Indiana,1110-1330,59
+Greenville University,Greenville,Illinois,>880-1100,59
+Huntingdon College,Montgomery,Alabama,1030-1170,59
+Texas Lutheran University,Seguin,Texas,1020-1170,59
+Worcester Polytechnic Institute,Worcester,Massachusetts,1310-1480,59
+Birmingham-Southern College,Birmingham,Alabama,1020-1190,60
+LaGrange College,LaGrange,Georgia,>980-1130,60
+Milwaukee School of Engineering,Milwaukee,Wisconsin,1180-1370,60
+SUNY Farmingdale State College,Farmingdale,New York,>990-1150,60
+Toccoa Falls College,Toccoa Falls,Georgia,>920-1150,60
+Benedictine University,Lisle,Illinois,>980-1160,61
+Bluffton University,Bluffton,Ohio,>840-1050,61
+Eureka College,Eureka,Illinois,>940-1110,61
+Illinois Institute of Technology,Chicago,Illinois,1200-1390,61
+SUNY Geneseo,Geneseo,New York,1140-1310,61
+SUNY Plattsburgh,Plattsburgh,New York,>980-1170,61
+William Peace University,Raleigh,North Carolina,>940-1130,61
+Alma College,Alma,Michigan,1030-1230,62
+Maryville College,Maryville,Tennessee,>880-1160,62
+Medaille College,Buffalo,New York,>850-1100,62
+Muhlenberg College,Allentown,Pennsylvania,1170-1350,62
+Gallaudet University,Washington,District Of Columbia,>780-1040,63
+University of Valley Forge,Phoenixville,Pennsylvania,>790-1050,63
+Wabash College,Crawfordsville,Indiana,1120-1320,63
+Alfred University,Alfred,New York,>970-1200,64
+Centenary College of Louisiana,Shreveport,Louisiana,>980-1190,64
+Central College,Pella,Iowa,>980-1230,64
+Eastern Nazarene College,Quincy,Massachusetts,>900-1150,64
+Luther College,Decorah,Iowa,1030-1280,64
+Northland College,Ashland,Wisconsin,1000-1135,64
+Bethany Lutheran College,Mankato,Minnesota,>950-1150,65
+College of Wooster,Wooster,Ohio,1150-1380,65
+Lycoming College,Williamsport,Pennsylvania,1010-1210,65
+Ohio Northern University,Ada,Ohio,1100-1320,65
+SUNY Delhi,Delhi,New York,>920-1120,65
+Chatham University,Pittsburgh,Pennsylvania,>ï¿½ï¿½<!-,66
+Eastern University,Saint Davids,Pennsylvania,1010-1190,66
+Pratt Institute,Brooklyn,New York,1120-1340,66
+Carroll University,Waukesha,Wisconsin,1050-1230,67
+Ramapo College of New Jersey,Mahwah,New Jersey,1040-1220,67
+Yeshiva University,New York,New York,1140-1410,67
+DePauw University,Greencastle,Indiana,1110-1360,68
+Elmhurst University,Elmhurst,Illinois,>980-1170,68
+Oglethorpe University,Atlanta,Georgia,1100-1280,68
+Ohio Wesleyan University,Delaware,Ohio,>990-1250,68
+Springfield College,Springfield,Massachusetts,1200-1300,68
+Averett University,Danville,Virginia,>880-1090,69
+Dean College,Franklin,Massachusetts,>910-1100,69
+Endicott College,Beverly,Massachusetts,>980-1160,69
+Hamline University,Saint Paul,Minnesota,1000-1250,69
+Hanover College,Hanover,Indiana,1060-1230,69
+Lawrence University,Appleton,Wisconsin,1190-1410,69
+Monmouth College,Monmouth,Illinois,1050-1260,69
+Rosemont College,Rosemont,Pennsylvania,>910-1170,69
+SUNY Oswego,Oswego,New York,1020-1190,69
+Wentworth Institute of Technology,Boston,Massachusetts,1090-1280,69
+Alvernia University,Reading,Pennsylvania,>940-1130,70
+Baldwin Wallace University,Berea,Ohio,1040-1260,70
+Eastern Connecticut State University,Willimantic,Connecticut,n>19-24</,70
+Manchester University,North Manchester,Indiana,>865-1090,70
+Millsaps College,Jackson,Mississippi,1080-1290,70
+Nebraska Wesleyan University,Lincoln,Nebraska,>990-1250,70
+Piedmont University,Demorest,Georgia,>980-1160,70
+Gustavus Adolphus College,Saint Peter,Minnesota,1080-1340,71
+Hendrix College,Conway,Arkansas,1150-1360,71
+Hood College,Frederick,Maryland,>910-1160,71
+Juniata College,Huntingdon,Pennsylvania,n>23-30</,71
+Knox College,Galesburg,Illinois,1080-1320,71
+Millikin University,Decatur,Illinois,>940-1160,71
+Olivet College,Olivet,Michigan,>850-1070,71
+Randolph-Macon College,Ashland,Virginia,1030-1230,71
+Rochester Institute of Technology,Rochester,New York,1220-1420,71
+York College of Pennsylvania,York,Pennsylvania,>990-1190,71
+Centre College,Danville,Kentucky,1100-1340,72
+Eastern Mennonite University,Harrisonburg,Virginia,>980-1230,72
+SUNY Fredonia,Fredonia,New York,1000-1210,72
+SUNY Potsdam,Potsdam,New York,>ï¿½ï¿½<!-,72
+Whittier College,Whittier,California,1040-1220,72
+Allegheny College,Meadville,Pennsylvania,1140-1350,73
+Augsburg University,Minneapolis,Minnesota,1060-1300,73
+Drew University,Madison,New Jersey,1030-1250,73
+Franciscan University of Steubenville,Steubenville,Ohio,1070-1290,73
+Geneva College,Beaver Falls,Pennsylvania,1020-1240,73
+SUNY Maritime College,Throggs Neck,New York,1070-1230,73
+Susquehanna University,Selinsgrove,Pennsylvania,1020-1230,73
+University of Dubuque,Dubuque,Iowa,>840-1070,73
+Wilmington College,Wilmington,Ohio,>930-1160,73
+Albion College,Albion,Michigan,>930-1160,74
+Arcadia University,Glenside,Pennsylvania,1030-1230,74
+California Lutheran University,Thousand Oaks,California,1070-1240,74
+Capital University,Columbus,Ohio,1030-1210,74
+Gordon College,Wenham,Massachusetts,1020-1280,74
+Kalamazoo College,Kalamazoo,Michigan,1170-1370,74
+Marietta College,Marietta,Ohio,1010-1220,74
+Mitchell College,New London,Connecticut,>ï¿½ï¿½<!-,74
+Ripon College,Ripon,Wisconsin,>970-1170,74
+Rose-Hulman Institute of Technology,Terre Haute,Indiana,1260-1460,74
+Russell Sage College,Troy,New York,>ï¿½ï¿½<!-,74
+Shenandoah University,Winchester,Virginia,1000-1200,74
+SUNY Purchase College,Purchase,New York,1100-1280,74
+The College of St. Scholastica,Duluth,Minnesota,1050-1270,74
+Asbury University,Wilmore,Kentucky,1080-1320,75
+Heidelberg University,Tiffin,Ohio,>960-1180,75
+Illinois College,Jacksonville,Illinois,>820-1120,75
+Lesley University,Cambridge,Massachusetts,1000-1210,75
+Norwich University,Northfield,Vermont,>930-1160,75
+Rivier University,Nashua,New Hampshire,>880-1050,75
+Saint Elizabeth University,Morristown,New Jersey,>890-1100,75
+Salve Regina University,Newport,Rhode Island,1020-1190,75
+University of Mary Washington,Fredericksburg,Virginia,1090-1270,75
+Wartburg College,Waverly,Iowa,>970-1200,75
+Widener University,Chester,Pennsylvania,1040-1210,75
+William Paterson University of New Jersey,Wayne,New Jersey,>890-1090,75
+Bridgewater College,Bridgewater,Virginia,>980-1170,76
+Cabrini University,Radnor,Pennsylvania,>940-1160,76
+Christopher Newport University,Newport News,Virginia,1110-1280,76
+Ferrum College,Ferrum,Virginia,>910-1060,76
+Franklin College,Franklin,Indiana,>970-1150,76
+Ithaca College,Ithaca,New York,n>23-28</,76
+Methodist University,Fayetteville,North Carolina,>940-1150,76
+Nazareth College,Rochester,New York,>ï¿½ï¿½<!-,76
+Otterbein University,Westerville,Ohio,>990-1240,76
+Pfeiffer University,Misenheimer,North Carolina,>940-1100,76
+University of La Verne,La Verne,California,>960-1150,76
+University of Redlands,Redlands,California,1030-1250,76
+University of Scranton,Scranton,Pennsylvania,1100-1280,76
+Berry College,Mount Berry,Georgia,1090-1320,77
+Calvin University,Grand Rapids,Michigan,1100-1320,77
+Carthage College,Kenosha,Wisconsin,1000-1230,77
+Maranatha Baptist University,Watertown,Wisconsin,1130-1320,77
+Stockton University,Galloway,New Jersey,1020-1190,77
+SUNY Morrisville,Morrisville,New York,>860-1060,77
+University of Hartford,West Hartford,Connecticut,1020-1210,77
+University of Mount Union,Alliance,Ohio,>970-1160,77
+Virginia Wesleyan University,Norfolk,Virginia,>960-1190,77
+Clarkson University,Potsdam,New York,1150-1350,78
+Greensboro College,Greensboro,North Carolina,>900-1100,78
+Grove City College,Grove City,Pennsylvania,1130-1380,78
+Guilford College,Greensboro,North Carolina,>930-1170,78
+Hope College,Holland,Michigan,1130-1330,78
+Kean University,Union,New Jersey,>920-1100,78
+Lakeland University,Plymouth,Wisconsin,>900-1060,78
+Lebanon Valley College,Annville,Pennsylvania,1070-1260,78
+Messiah University,Mechanicsburg,Pennsylvania,1080-1310,78
+Roanoke College,Salem,Virginia,1040-1240,78
+Rowan University,Glassboro,New Jersey,1040-1250,78
+Salisbury University,Salisbury,Maryland,1080-1230,78
+SUNY College at Old Westbury,Old Westbury,New York,>930-1100,78
+University of Saint Joseph,West Hartford,Connecticut,>970-1230,78
+Framingham State University,Framingham,Massachusetts,>950-1130,79
+Goucher College,Baltimore,Maryland,1030-1260,79
+Keystone College,La Plume,Pennsylvania,>880-1090,79
+Regis College,Weston,Massachusetts,>840-1060,79
+University of Texas at Dallas,Richardson,Texas,1220-1450,79
+Elmira College,Elmira,New York,1020-1260,80
+Linfield University,McMinnville,Oregon,1050-1210,80
+Moravian University,Bethlehem,Pennsylvania,1050-1200,80
+Muskingum University,New Concord,Ohio,>890-1120,80
+Neumann University,Aston,Pennsylvania,>900-1080,80
+Nichols College,Dudley,Massachusetts,>840-1030,80
+SUNY Buffalo State College,Buffalo,New York,>860-1060,80
+Ursinus College,Collegeville,Pennsylvania,1150-1330,80
+Washington College,Chestertown,Maryland,1040-1280,80
+Willamette University,Salem,Oregon,1100-1330,80
+Albertus Magnus College,New Haven,Connecticut,>850-1090,81
+Cairn University,Langhorne,Pennsylvania,1000-1250,81
+Coe College,Cedar Rapids,Iowa,1080-1300,81
+Houghton College,Houghton,New York,1060-1320,81
+McDaniel College,Westminster,Maryland,1050-1230,81
+Rhode Island College,Providence,Rhode Island,>870-1100,81
+Western Connecticut State University,Danbury,Connecticut,>880-1080,81
+Worcester State University,Worcester,Massachusetts,1000-1190,81
+Bridgewater State University,Bridgewater,Massachusetts,>950-1140,82
+Catholic University of America,Washington,District Of Columbia,1020-1230,82
+Cornell College,Mount Vernon,Iowa,1060-1280,82
+DeSales University,Center Valley,Pennsylvania,1010-1240,82
+Immaculata University,No City Found,Pennsylvania,>990-1170,82
+Marywood University,Scranton,Pennsylvania,1000-1180,82
+Trine University,Angola,Indiana,1010-1210,82
+Finlandia University,Hancock,Michigan,>920-1090,83
+Misericordia University,Dallas,Pennsylvania,1050-1220,83
+Montclair State University,Montclair,New Jersey,>990-1180,83
+SUNY Canton,Canton,New York,>920-1130,83
+Wells College,Aurora,New York,>950-1240,83
+Aurora University,Aurora,Illinois,>960-1130,84
+St. Norbert College,De Pere,Wisconsin,1020-1220,84
+Suffolk University,Boston,Massachusetts,1010-1200,84
+Thiel College,Greenville,Pennsylvania,>920-1140,84
+Albright College,Reading,Pennsylvania,>930-1130,85
+Fontbonne University,St. Louis,Missouri,>990-1100,85
+Husson University,Bangor,Maine,>960-1140,85
+Lasell University,Newton,Massachusetts,>980-1180,85
+Penn State Abington,Abington,Pennsylvania,1010-1270,85
+Penn State York,York,Pennsylvania,1030-1300,85
+Warren Wilson College,Swannanoa,North Carolina,1120-1280,85
+Anna Maria College,Paxton,Massachusetts,n>16-20</,86
+Elizabethtown College,Elizabethtown,Pennsylvania,1080-1280,86
+Pacific Lutheran University,Tacoma,Washington,1080-1290,86
+Roger Williams University,Bristol,Rhode Island,>ï¿½ï¿½<!-,86
+Martin Luther College,New Ulm,Minnesota,1070-1280,87
+Mary Baldwin University,Staunton,Virginia,>940-1120,87
+Penn State Berks,Reading,Pennsylvania,1000-1200,87
+Salem State University,Salem,Massachusetts,1010-1160,87
+Simpson College,Indianola,Iowa,1070-1200,87
+University of New England,Biddeford,Maine,1040-1230,87
+University of Puget Sound,Tacoma,Washington,1110-1330,87
+Utica College,Utica,New York,>830-1050,87
+Castleton University,Castleton,Vermont,>940-1140,88
+Fitchburg State University,Fitchburg,Massachusetts,>990-1150,88
+John Carroll University,University Heights,Ohio,1060-1260,88
+Massachusetts College of Liberal Arts,North Adams,Massachusetts,>960-1180,88
+Penn State Harrisburg,Middletown,Pennsylvania,1050-1290,88
+University of Southern Maine,Portland,Maine,>950-1160,88
+Pacific University,Forest Grove,Oregon,1050-1230,89
+Plymouth State University,Plymouth,New Hampshire,>860-1070,89
+Stevenson University,Stevenson,Maryland,1010-1190,89
+Western New England University,Springfield,Massachusetts,1060-1250,89
+Manhattanville College,Purchase,New York,>970-1180,90
+Randolph College,Lynchburg,Virginia,>950-1160,90
+University of Mary Hardin-Baylor,Belton,Texas,1000-1190,90
+Waynesburg University,Waynesburg,Pennsylvania,>980-1170,90
+Colby-Sawyer College,New London,New Hampshire,>ï¿½ï¿½<!-,91
+Edgewood College,Madison,Wisconsin,>950-1210,91
+George Fox University,Newberg,Oregon,1020-1230,91
+Hardin-Simmons University,Abilene,Texas,>960-1150,91
+Keene State College,Keene,New Hampshire,>960-1140,91
+Keuka College,Keuka Park,New York,>980-1140,91
+Penn State Altoona,Altoona,Pennsylvania,1000-1180,91
+Whitworth University,Spokane,Washington,1050-1270,91
+Delaware Valley University,Doylestown,Pennsylvania,>940-1170,92
+East Texas Baptist University,Marshall,Texas,>920-1120,92
+Transylvania University,Lexington,Kentucky,1070-1270,92
+Westfield State University,Westfield,Massachusetts,>960-1140,92
+Wilkes University,Wilkes-Barre,Pennsylvania,1040-1230,92
+Wilson College,Chambersburg,Pennsylvania,>940-1100,92
+College of Mount Saint Vincent,Bronx,New York,>910-1090,93
+Curry College,Milton,Massachusetts,>990-1120,93
+Hartwick College,Oneonta,New York,1020-1180,93
+Hilbert College,Hamburg,New York,>ï¿½ï¿½<!-,93
+Hiram College,Hiram,Ohio,>890-1100,93
+North Central University,Minneapolis,Minnesota,>950-1160,93
+Principia College,Elsah,Illinois,1000-1210,93
+Spalding University,Louisville,Kentucky,>930-1130,93
+Cazenovia College,Cazenovia,New York,>843-1100,94
+Gwynedd Mercy University,Gwynedd Valley,Pennsylvania,>950-1140,95
+Mount Aloysius College,Cresson,Pennsylvania,>940-1120,95
+University of Maine at Farmington,Farmington,Maine,>ï¿½ï¿½<!-,95
+New England College,Henniker,New Hampshire,>ï¿½ï¿½<!-,96
+New Jersey City University,Jersey City,New Jersey,>860-1080,96
+Schreiner University,Kerrville,Texas,>920-1160,96
+Lancaster Bible College,Lancaster,Pennsylvania,>980-1200,97
+University of Lynchburg,Lynchburg,Virginia,>970-1170,97
+Wittenberg University,Springfield,Ohio,1020-1200,97
+Covenant College,Lookout Mountain,Georgia,1060-1320,98
+Ozark Christian College,Joplin,Missouri,>890-1220,98
+La Roche University,Pittsburgh,Pennsylvania,>890-1110,99
+Southern Virginia University,Buena Vista,Virginia,>960-1200,99
+University of Maine at Presque Isle,Presque Isle,Maine,>ï¿½ï¿½<!-,99
+Elms College,Chicopee,Massachusetts,[],[
+Hobart & William Smith College,Geneva,New York,[],[
+Marymount University (VA),Arlington,Virginia,[],[
+Mount St. Joseph University,Cincinnati,Ohio,[],[
+North Carolina Wesleyan College,Rocky Mount,North Carolina,[],[
+Saint Joseph's College of Maine,Standish,Maine,[],[
+Saint Mary's University of Minnesota,Winona,Minnesota,[],[
+St. John Fisher College,Rochester,New York,[],[
+St. Mary's College of Maryland,St. Mary's City,Maryland,[],[
+SUNY College of Agriculture & Technology at Cobleskill,Cobleskill,New York,[],[
+Washington & Lee University,Lexington,Virginia,[],[
+Anderson University ï¿½ï¿½ï¿½ I,Anderson,Indiana,None Found,None Found
+Augustana College ï¿½ï¿½ï¿½ Il,Rock Island,Illinois,None Found,None Found
+Bethany College ï¿½ï¿½ï¿½ West Vi,Bethany,West Virginia,None Found,None Found
+Bethel University ï¿½ï¿½ï¿½ Min,Saint Paul,Minnesota,None Found,None Found
+Centenary University ï¿½ï¿½ï¿½ New ,Hackettstown,New Jersey,None Found,None Found
+Concordia College ï¿½ï¿½ï¿½ Min,Moorhead,Minnesota,None Found,None Found
+Concordia University ï¿½ï¿½ï¿½ C,River Forest,Illinois,None Found,None Found
+Concordia University ï¿½ï¿½ï¿½,Austin,Texas,None Found,None Found
+Dominican University ï¿½ï¿½ï¿½ Il,River Forest,Illinois,None Found,None Found
+Fairleigh Dickinson University ï¿½ï¿½ï¿½ College at F,Madison,New Jersey,None Found,None Found
+Johnson & Wales University ï¿½ï¿½ï¿½ Cha,Charlotte,North Carolina,None Found,None Found
+Johnson & Wales University ï¿½ï¿½ï¿½ Prov,Providence,Rhode Island,None Found,None Found
+King's College ï¿½ï¿½ï¿½ Pennsy,Wilkes-Barre,Pennsylvania,None Found,None Found
+Marian University ï¿½ï¿½ï¿½ Wis,Fond du Lac,Wisconsin,None Found,None Found
+Mount Saint Mary College ï¿½ï¿½ï¿½ Ne,Newburgh,New York,None Found,None Found
+Northern Vermont University ï¿½ï¿½ï¿½ J,Johnson,Vermont,None Found,None Found
+Northern Vermont University ï¿½ï¿½ï¿½ ,Lyndonville,Vermont,None Found,None Found
+Penn State Erie ï¿½ï¿½ï¿½ The Behrend C,Erie,Pennsylvania,None Found,None Found
+Rutgers University ï¿½ï¿½ï¿½ ,Newark,New Jersey,None Found,None Found
+Saint John's University ï¿½ï¿½ï¿½ Min,Collegeville,Minnesota,None Found,None Found
+Saint Vincent College ï¿½ï¿½ï¿½ Pennsy,Latrobe,Pennsylvania,None Found,None Found
+Sewanee ï¿½ï¿½ï¿½ The University of the,Sewanee,Tennessee,None Found,None Found
+St. Joseph's College ï¿½ï¿½ï¿½ Br,Brooklyn,New York,None Found,None Found
+St. Joseph's College ï¿½ï¿½ï¿½ Long ,Patchogue,New York,None Found,None Found
+The King's College ï¿½ï¿½ï¿½ Ne,New York,New York,None Found,None Found
+Trinity College ï¿½ï¿½ï¿½ Conne,Hartford,Connecticut,None Found,None Found
+Trinity University ï¿½ï¿½ï¿½,San Antonio,Texas,None Found,None Found
+Union College ï¿½ï¿½ï¿½ Ne,Schenectady,New York,None Found,None Found
+University of California ï¿½ï¿½ï¿½ Sant,Santa Cruz,California,None Found,None Found
+University of Massachusetts ï¿½ï¿½ï¿½ ,Boston,Massachusetts,None Found,None Found
+University of Massachusetts ï¿½ï¿½ï¿½ Dar,North Dartmouth,Massachusetts,None Found,None Found
+University of Minnesota ï¿½ï¿½ï¿½ ,Morris,Minnesota,None Found,None Found
+University of Northwestern ï¿½ï¿½ï¿½ St,Saint Paul,Minnesota,None Found,None Found
+University of Pittsburgh ï¿½ï¿½ï¿½ Br,Bradford,Pennsylvania,None Found,None Found
+University of Pittsburgh ï¿½ï¿½ï¿½ Gree,Greensburg,Pennsylvania,None Found,None Found
+University of St. Thomas ï¿½ï¿½ï¿½,Houston,Texas,None Found,None Found
+University of Wisconsin ï¿½ï¿½ï¿½ Eau ,Eau Claire,Wisconsin,None Found,None Found
+University of Wisconsin ï¿½ï¿½ï¿½ Platt,Platteville,Wisconsin,None Found,None Found
+University of Wisconsin ï¿½ï¿½ï¿½ Su,Superior,Wisconsin,None Found,None Found
+University of Wisconsin ï¿½ï¿½ï¿½ Whit,Whitewater,Wisconsin,None Found,None Found
+Westminster College ï¿½ï¿½ï¿½ Mi,Fulton,Missouri,None Found,None Found
+Westminster College ï¿½ï¿½ï¿½ Pennsy,New Wilmington,Pennsylvania,None Found,None Found
+Wheaton College ï¿½ï¿½ï¿½ Il,Wheaton,Illinois,None Found,None Found
+Wheaton College ï¿½ï¿½ï¿½ Massach,Norton,Massachusetts,None Found,None Found
